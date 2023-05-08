@@ -1,7 +1,7 @@
 function Home() {
     return (  
         <div className="col-12">
-            <h2>Welcome Astronauts</h2>
+            <h2>Welcome To Mars</h2>
             <img src="./mars.jpg" alt="Mars" className="img-fluid" />
             <h3>About</h3>
             <p>You will use this site to brief yourself on upcoming space missions. For more information visit the official <a href="https://mars.nasa.gov/mars2020/" target="_blank" rel="noreferrer">Mars Perseverance Mission Site</a></p>
